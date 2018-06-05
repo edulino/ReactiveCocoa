@@ -1,5 +1,5 @@
-github "Quick/Nimble" "v7.1.1"
 github "Quick/Quick" "v1.3.0"
-github "ReactiveCocoa/ReactiveSwift" "4.0.0-rc.1"
 github "antitypical/Result" "4.0.0"
+github "edulino/Nimble" "7e9bc80517a733829f72756c7dcfa625a6eeac2f"
+github "edulino/ReactiveSwift" "da056e70a12e41a04c07a61ea287bfce178f6694"
 github "jspahrsummers/xcconfigs" "3d9d99634cae6d586e272543d527681283b33eb0"
